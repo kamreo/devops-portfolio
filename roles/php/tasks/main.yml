@@ -1,0 +1,9 @@
+---
+- name: Install PHP
+  apt:
+    name: "{{ item }}"
+    state: present
+  loop:
+    - php
+    - php-mysql
+    - libapache2-mod-php
