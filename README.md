@@ -21,13 +21,13 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 Clone this repository to your local machine using:
 ```
-git clone [Your Repository URL]
+git clone git@github.com:kamreo/devops-portfolio.git
 ```
 
 ### 2. Navigate to the Project Directory
 Change into the project directory:
 ```
-cd /path/to/your-ansible-project
+cd ansible-automated-configuration
 ```
 
 ### 3. Start Vagrant Machines
