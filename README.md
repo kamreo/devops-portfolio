@@ -1,9 +1,5 @@
 # ansible-automated-configuration
 
-Creating a detailed README for your project is crucial for users to understand how to set up and use your Ansible and Vagrant environment. Here’s a step-by-step guide you might include in your README to help users get started:
-
----
-
 ## Project Title
 Ansible Vagrant Example
 
