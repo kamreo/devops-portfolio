@@ -1,14 +1,14 @@
 version: '3.8'
 services:
   api:
-    build: ./api
+    build: ./escapadez-api
     ports:
       - "5000:80"
     networks:
       - app-network
 
   frontend:
-    build: ./frontend
+    build: ./escapadez-frontend
     ports:
       - "3000:80"
     networks:
