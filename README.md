@@ -1,7 +1,7 @@
 # ansible-automated-configuration
 
 ## Project Title
-Ansible Vagrant Example
+Ansible Automated Configuration
 
 ## Description
 This project sets up an environment with Vagrant-managed virtual machines and configures them using Ansible. It's designed to showcase how to automate the provisioning and management of multiple servers.
